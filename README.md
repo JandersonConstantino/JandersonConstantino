@@ -1,4 +1,4 @@
-# Janderson Constantino :brazil:
+# Janderson Constantino
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jandersonconstantino/)](https://www.linkedin.com/in/jandersonconstantino/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jandconstantino)](https://twitter.com/jandconstantino)
