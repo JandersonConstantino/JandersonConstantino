@@ -7,15 +7,16 @@
 
 ### Welcome to my GitHub profile
 
-I work as Front-end Engineer building stuff with JavaScript.
+I work as Front-end Engineer building stuff with JavaScript. :rocket:
 
 ### Stack:
-- JavaScript;
-- React;
-- React Native;
-- Electron;
-- NodeJS;
-- MongoDB, MySQL, PostgreSQL, etc.
+- JavaScript
+- React
+- React Native
+- Electron
+- NodeJS
+- MongoDB, MySQL, PostgreSQL, etc
+- Learning ReasonML :heart:
 
 <!--
 **JandersonConstantino/JandersonConstantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
