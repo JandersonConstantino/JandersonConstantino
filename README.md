@@ -7,7 +7,7 @@
 
 ### Welcome to my GitHub profile
 
-I work as Front-end Engineer building stuff with JavaScript. :rocket:
+Front-end Architect building stuff with JavaScript. :rocket:
 
 ### Stack:
 - JavaScript
