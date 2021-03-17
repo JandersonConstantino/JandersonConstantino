@@ -16,7 +16,6 @@ Front-end Architect building stuff with JavaScript. :rocket:
 - Electron
 - NodeJS
 - MongoDB, MySQL, PostgreSQL, etc
-- Learning ReasonML :heart:
 
 <!--
 **JandersonConstantino/JandersonConstantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
